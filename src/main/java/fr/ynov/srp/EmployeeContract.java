@@ -5,7 +5,8 @@ public class EmployeeContract {
 	private int daysPerWeek = 5;
 	private int hoursPerDay = 7;
 	private int workedHoursPerDay = 8;
-	
+
+	// RGJQEOGDFGJDFGDLFGDSJOGDSOGSNFODGDNOFGNFDOGNQDGQSGNEQOGNSQ
 	public int getDaysPerWeek() {
 		return daysPerWeek;
 	}
